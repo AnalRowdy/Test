@@ -12,5 +12,6 @@ public class Main {
         tank.turnLeft();
         tank.goBackward(100);
         tank.printPosition();
+        tank.printPosition();
     }
 }
